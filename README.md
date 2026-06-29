@@ -114,4 +114,15 @@ serverless deploy --stage prod --region us-east-1
 
 ```
 
+Equipe desenvolvedora:
+* **Ana Paula da Silva Siqueira**
+* **Bruno Trindade**
+* **Daniel Landi**
+* **Livia Calderan Alves**
+* **Melina Nascimento França**
+* **Pedro Henrique Castro de Souza**
+* **Samuel Brandão Maia Lima**
+
+
+
 ```
