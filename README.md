@@ -1,2 +1,2 @@
-# Atlas--IDP-com-AWS-AI-Services-Agente-de-IA-Generativa
+# Atlas--IDP-com- AI-Generativa
 Projeto desenvolvido a partir de um desafio inspirado no mercado real, exigindo análise e proposta de solução. A aplicação visa otimizar o sistema de análise de documentos da seguradora de veículos, DocuSmart, centralizando e classificando documentos de solicitação de sinistros e reduzindo falhas e retrabalho para aumentar a eficiência operacional.
