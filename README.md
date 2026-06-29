@@ -1,6 +1,7 @@
 # Atlas--IDP-com- AI-Generativa
 Projeto desenvolvido para o Hack2Hire- Hackathon da Escola da Nuvem em parceria com a AWS a partir de um desafio inspirado no mercado real, exigindo análise e proposta de solução. A aplicação visa otimizar o sistema de análise de documentos da seguradora de veículos, DocuSmart, centralizando e classificando documentos de solicitação de sinistros e reduzindo falhas e retrabalho para aumentar a eficiência operacional.
-Equipe desenvolvedora
+
+# Equipe desenvolvedora
 Ana Paula da Silva Siqueira
 Bruno Trindade
 Daniel Landi
@@ -8,8 +9,6 @@ Livia Calderan alves
 Melina Nascimento França
 Pedro Henrique Castro de Souza
 Samuel Brandão Maia Lima
-<img width="464" height="272" alt="image" src="https://github.com/user-attachments/assets/7163010b-bc35-4d45-9dc2-f74ba0fd9c85" />
-
 
 # DocuSmart Seguros — IDP Pipeline & Intelligent RAG Agent 🚀
 
