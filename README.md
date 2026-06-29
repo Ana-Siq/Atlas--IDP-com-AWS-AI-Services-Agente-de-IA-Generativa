@@ -10,6 +10,8 @@ Este repositório contém a implementação da arquitetura 100% *serverless* de 
 A solução é orientada a eventos (EDA) e utiliza orquestração robusta baseada em máquinas de estados. O ecossistema mapeado na arquitetura divide-se em duas grandes frentes:
 1. **Pipeline de IDP (Ingestão e Processamento):** Acionado automaticamente via upload de sinistros, realiza a extração multi-modelo de texto, metadados e persistência estruturada.
 2. **Pipeline do Agente Virtual (Chat & RAG):** Disponibiliza uma interface conversacional inteligente para funcionários consultarem o histórico de operações e documentos em linguagem natural.
+   <img width="1032" height="639" alt="image" src="https://github.com/user-attachments/assets/a895220f-39e2-4771-8a9d-742942c0c850" />
+
 ---
 
 ## 🧭 Fluxo de Dados e Componentes
