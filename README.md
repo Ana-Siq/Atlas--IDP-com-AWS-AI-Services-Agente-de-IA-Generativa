@@ -3,11 +3,17 @@ Projeto desenvolvido para o Hack2Hire- Hackathon da Escola da Nuvem em parceria 
 
 # Equipe desenvolvedora
 Ana Paula da Silva Siqueira
+
 Bruno Trindade
+
 Daniel Landi
+
 Livia Calderan alves
+
 Melina Nascimento França
+
 Pedro Henrique Castro de Souza
+
 Samuel Brandão Maia Lima
 
 # DocuSmart Seguros — IDP Pipeline & Intelligent RAG Agent 🚀
